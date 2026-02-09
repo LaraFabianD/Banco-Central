@@ -6,7 +6,6 @@
 *.exe
 *.props
 *.targets
-*.cs
 *.cache
 *.BuildWithSkipAnalyzers
 *.txt
