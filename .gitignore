@@ -1,0 +1,15 @@
+
+*.vsidx
+*.dll
+*.json
+*.pdb
+*.exe
+*.props
+*.targets
+*.cs
+*.cache
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
+*.v2
+BancoCentralSLN/.vs/BancoCentralSLN/v17/.suo
