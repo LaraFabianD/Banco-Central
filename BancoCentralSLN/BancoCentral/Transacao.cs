@@ -13,5 +13,6 @@ namespace BancoCentral
         public string Tipo { get; set; }
         public  ContaBancaria ContaOrigem { get; set; }
         public ContaBancaria ContaDestino { get; set; }
+
     }
 }
