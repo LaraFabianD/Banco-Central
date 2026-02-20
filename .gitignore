@@ -12,3 +12,10 @@
 *.editorconfig
 *.v2
 BancoCentralSLN/.vs/BancoCentralSLN/v17/.suo
+/BancoCentralSLN/BancoCentral/obj
+/.vs/Banco-Central/v17
+/BancoCentralSLN/Validacao-de-Dados/ConsoleApp1/obj/Debug
+/BancoCentralSLN/Validacao-de-Dados/ConsoleApp1/obj
+/BancoCentralSLN/BancoCentral/obj
+/BancoCentralSLN/BancoCentral/obj/Debug/net9.0
+/.vs
