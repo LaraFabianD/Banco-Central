@@ -49,6 +49,8 @@ namespace BancoCentral
 
         public class Transacaoted : transacao
         {
+            public string Finalidade { get; set; }
+
             public override bool Validar()
             {
                 //Regra de exemplo: TED deve ser maior que R$5.000 para fiscalização
