@@ -14,7 +14,7 @@ namespace BancoCentral
             public decimal Valor
             {
                 get { return _valor; }
-                set { if (value > 0) _valor = value; }
+                set { if (value > 0) _valor = value;}
             }
 
             public DateTime Data { get; set; } = DateTime.Now;

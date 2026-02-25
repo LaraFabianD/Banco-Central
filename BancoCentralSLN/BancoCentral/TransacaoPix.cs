@@ -13,7 +13,7 @@ namespace BancoCentral
 
             public override bool Validar()
             {
-                return _valor > 0 && _valor <= 10000;
+                return _valor > 0 && _valor <= 10000 ;
             }
     }
 }

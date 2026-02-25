@@ -10,7 +10,7 @@ namespace BancoCentral
     {
         public string Agencia { get; set; }
         public string NumeroConta { get; set; }
-        public decimal Saldo { get; private set; }
+        public decimal Saldo { get; private set;}
 
     }
 }

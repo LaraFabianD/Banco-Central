@@ -17,7 +17,7 @@ namespace BancoCentral
         public override bool Validar()
         {
             //Regra de exemplo: TED deve ser maior que R$5.000 para fiscalização
-            return _valor > 0;
+            return _valor > 0 ;
         }
         //}
     }

@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using BancoCentral;
 using static BancoCentral.Transacao;
 
+using BancoCentral;
 class Program
 {
     static void Main(string[] args)
@@ -16,6 +16,6 @@ class Program
         Console.WriteLine($"Pix de R$ {meuPix.Valor} é válido? {meuPix.Validar()}");
         Console.WriteLine($"TED de R$ {meuTed.Valor} é válido? {meuTed.Validar()}");
 
-        Console.ReadLine();
+        Console.ReadLine() ;
     }
 }

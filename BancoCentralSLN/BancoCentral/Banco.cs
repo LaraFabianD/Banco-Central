@@ -8,7 +8,7 @@ namespace BancoCentral
 {
     internal class Banco
     {
-        public string Nome { get; set; }
+        public string Nome { get; set;}
         private int _codigoBACEN;
         public int CodigoBACEN2 
         {
