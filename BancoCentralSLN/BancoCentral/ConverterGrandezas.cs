@@ -8,5 +8,10 @@ namespace BancoCentral
 {
     internal class ConverterGrandezas
     {
-    }
+		public interface IConversorGrandeza
+		{
+			decimal Converter(decimal valor);
+			string ObterSimbolo();
+		}
+	}
 }
